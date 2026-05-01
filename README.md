@@ -60,7 +60,7 @@ Aplikasi ini merupakan "Mini Project Integrasi" yang mewujudkan manajemen tugas 
 
 ## Cara Menjalankan
 1. **Clone repositori**: git clone [https://github.com/tris-aja/MyTaskList-App.git](https://github.com/tris-aja/MyTaskList-App.git)
-2. **cd MyTaskList-App**: cd MyTaskList-App
+2. **Masuk ke direktori project:**: cd MyTaskList-App
 3. **Install dependensi**: npm install
 4. **Jalankan project**: npx expo start
 5. **Scan QR Code menggunakan aplikasi Expo Go di HP fisik Anda.**
