@@ -20,10 +20,12 @@ Aplikasi ini merupakan "Mini Project Integrasi" yang mewujudkan manajemen tugas 
 - [x] **Fitur CRUD Dasar** — Mendukung operasi Tambah (Add) dan Hapus (Delete) tugas.
 
 ### ⭐ Fitur Bonus (Poin Tambahan)
-- [x] **Mark as Done** (+5) — Fitur untuk mencentang dan mencoret tugas yang telah selesai.
-- [x] **Prioritas Task** (+5) — Warna indikator berbeda untuk tiap tingkat urgensi (Merah/Ungu/Hijau).
-- [x] **Task Counter** (+5) — Menampilkan status "X tugas selesai dari Y total" di bagian header.
-- [x] **Filter View** (+5) — Memisahkan tampilan tugas berdasarkan status Semua, Belum, atau Beres.
+- [x] Mark as Done (+5) — Fitur untuk mencentang dan mencoret tugas yang telah selesai.
+- [x] Prioritas Task (+5) — Warna indikator berbeda untuk tiap tingkat urgensi: Tinggi (Merah), Sedang (Ungu), dan Rendah (Hijau).
+- [x] Task Counter (+5) — Menampilkan status "X dari Y tugas beres" secara real-time di header.
+- [x] Filter View (+5) — Memisahkan tampilan berdasarkan status Semua, Belum, atau Beres.
+- [x] Deploy ke Expo Snack (+10) — Project dapat diakses dan dijalankan secara publik melalui link Expo Snack.
+- [x] UI Profesional & Konsisten (+10) — Desain antarmuka yang rapi, menggunakan kartu yang modern, dan layout yang intuitif.
 - [x] **Fitur Edit Tugas** — Kemampuan untuk memperbarui isi teks tugas yang sudah ada melalui Modal.
 
 ## Screenshot (Running on Physical Device)
